@@ -2,7 +2,7 @@
 
 jQuery('._32NvhYFTY8ARGfNWQ_-6hv').hide();
 jQuery('iframe').hide();
-jQuery('.indonesian').css('color', '#fff');
+jQuery('.text-translation small').css('color', '#fff');
 jQuery('.pager').hide();
 jQuery('footer').hide();
 jQuery('.montserrat').remove(); // hapus translate bahasa
